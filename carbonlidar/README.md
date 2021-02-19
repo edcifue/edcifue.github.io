@@ -25,11 +25,6 @@ To date, some of what I have from Paisagem Sustantais
     ##   TAP_A01    6   12   12    0    0    0    9    2    9
     ##   TAP_A03    0    0    0    0    0    0   10    0    0
 
-## Including Plots
-
-Preliminary community analysis
-
-<img src="carbonlidar_files/figure-markdown_github/00_ndms1_PS.svg" style="width:50.0%" alt="NDMS by location" /><img src="carbonlidar_files/figure-markdown_github/00_ndms2_PS.svg" style="width:50.0%" alt="NDMS by plot (+location)" />.
 
 ## Map of inventories and lidar bounding boxes
 
@@ -43,3 +38,10 @@ click on the map!
     ## Linking to GEOS 3.8.1, GDAL 3.1.4, PROJ 6.3.1
 
 ![](carbonlidar_files/figure-markdown_github/unnamed-chunk-2-1.png)
+
+## NMDS
+
+Preliminary community analysis
+
+<img src="carbonlidar_files/figure-markdown_github/00_ndms1_PS.svg" style="width:50.0%" alt="NDMS by location" /><img src="carbonlidar_files/figure-markdown_github/00_ndms2_PS.svg" style="width:50.0%" alt="NDMS by plot (+location)" />.
+
