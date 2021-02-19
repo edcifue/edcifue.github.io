@@ -29,14 +29,14 @@ To date, some of what I have from Paisagem Sustantais
 
 You can also embed plots, for example:
 
-![NDMS by location](carbonlidar_files/figure-markdown_github/00_ndms1_PS.svg){width=50%}![NDMS by plot (+location)](carbonlidar_files/figure-markdown_github/00_ndms2_PS.svg){width=50%}.
+<img src="carbonlidar_files/figure-markdown_github/00_ndms1_PS.svg" style="width:50.0%" alt="NDMS by location" /><img src="carbonlidar_files/figure-markdown_github/00_ndms2_PS.svg" style="width:50.0%" alt="NDMS by plot (+location)" />.
 
 ## Map of inventories and lidar bounding boxes
 
 click on the map!
 
 <center>
-![Paisagem Sustentáveis Inventories](carbonlidar_files/figure-markdown_github/gmapscreenshot.jpg){width=70%}](https://www.google.com/maps/d/u/0/edit?mid=1B8fDAx8gQiWn6hD3BzQkBcjWoqBajU1E&usp=sharing)
+[<img src="carbonlidar_files/figure-markdown_github/gmapscreenshot.jpg" style="width:70.0%" alt="Paisagem Sustentáveis Inventories" />](https://www.google.com/maps/d/u/0/edit?mid=1B8fDAx8gQiWn6hD3BzQkBcjWoqBajU1E&usp=sharing)
 </center>
 
 ## DBH-Height local models
