@@ -27,7 +27,7 @@ To date, some of what I have from Paisagem Sustantais
 
 ## Including Plots
 
-You can also embed plots, for example:
+Preliminary community analysis
 
 <img src="carbonlidar_files/figure-markdown_github/00_ndms1_PS.svg" style="width:50.0%" alt="NDMS by location" /><img src="carbonlidar_files/figure-markdown_github/00_ndms2_PS.svg" style="width:50.0%" alt="NDMS by plot (+location)" />.
 
