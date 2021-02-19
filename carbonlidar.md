@@ -35,9 +35,8 @@ You can also embed plots, for example:
 
 click on the map!
 
-<center>
-[<img src="carbonlidar_files/figure-markdown_github/gmapscreenshot.jpg" style="width:70.0%" alt="Paisagem Sustentáveis Inventories" />](https://www.google.com/maps/d/u/0/edit?mid=1B8fDAx8gQiWn6hD3BzQkBcjWoqBajU1E&usp=sharing)
-</center>
+[<img src="carbonlidar_files/figure-markdown_github/gmapscreenshot.jpg">](https://www.google.com/maps/d/u/0/edit?mid=1B8fDAx8gQiWn6hD3BzQkBcjWoqBajU1E&usp=sharing)
+
 
 ## DBH-Height local models
 
