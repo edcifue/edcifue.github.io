@@ -46,7 +46,7 @@ Preliminary community analysis
 
 
 ## Lidar canopy heigh model
-Example: 
+Example: TAP_A03_2016
 - resolution = 1m
 - splat = 0.2
 - sub.step = 0.2
