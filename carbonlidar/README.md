@@ -34,8 +34,7 @@ click on the map!
 
 
 ## DBH-Height local models
-
-    ## Linking to GEOS 3.8.1, GDAL 3.1.4, PROJ 6.3.1
+Trees ≥ 10 cm DBH
 
 ![](carbonlidar_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
@@ -45,3 +44,13 @@ Preliminary community analysis
 
 <img src="carbonlidar_files/figure-markdown_github/00_ndms1_PS.svg" style="width:50.0%" alt="NDMS by location" /><img src="carbonlidar_files/figure-markdown_github/00_ndms2_PS.svg" style="width:50.0%" alt="NDMS by plot (+location)" />.
 
+
+## Lidar canopy heigh model
+Example: 
+- resolution = 1m
+- splat = 0.2
+- sub.step = 0.2
+- kill = 0.2
+- intervals = 2, 5, 10, 20, 30, 40
+
+![](carbonlidar_files/figure-markdown_github/chm_pit_free_subcir2_kill2_step02.png)
